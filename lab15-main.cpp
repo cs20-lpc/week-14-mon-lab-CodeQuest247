@@ -1,6 +1,8 @@
 #include "ArrayListDictionary.hpp"
 #include <string>
 
+// Compilation line: g++ -std=c++11 -Wall -Wextra lab15-main.cpp -o main
+
 int main() {
     // variables
     ArrayListDictionary<string, string> dict;
